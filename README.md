@@ -8,4 +8,4 @@ Crypto Mining system for ESX
   </a><br>
   - <a href="https://github.com/overextended/oxmysql"> oxmysql</a>
   
-If you need any help with this script dm me on discord: p.#1812
+If you need any help with this script dm me on discord: neuh#1812
